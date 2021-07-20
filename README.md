@@ -15,7 +15,7 @@ Test cases are added to test all the above 6 functionality in testCases.py using
 
 Setup to run:
 1. Clone this repo.
-2. Use command python parkingLot.py. It opens a shell where you can test the above functionalities.
+2. Use command ```python parkingLot.py ```. It opens a shell where you can test the above functionalities.
 3. Use command python parkingLot -f input.txt to run with the help of text file.
 4. Use command python testCases.py to run the test cases.
 
